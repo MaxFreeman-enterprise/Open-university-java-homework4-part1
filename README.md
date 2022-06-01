@@ -5,4 +5,4 @@ And we were also asked to analyze in this function the running time complexity o
 and also to analyze the space complexity of the program.
 of course we was asked to do so in the minimum as possible in terms of space and time complexity.
 
-The analysis of the running time and place complications are written in the comments above the code.
+The analysis of the running time and place complexity are written in the comments above the code.
